@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Berto1999/-Node.js.git"
+  },
+  "author": "Berto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Berto1999/-Node.js/issues"
+  },
+  "homepage": "https://github.com/Berto1999/-Node.js#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
